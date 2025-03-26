@@ -4,7 +4,7 @@
         "Date": "Mar 24, 2025",
         "Original Price": "$19.99",
         "Discount Price": "$16.99",
-        "Reviews": "1973",
+        "Reviews": "4008",
         "Search Filter": "topsellers"
     },
     {
@@ -12,7 +12,7 @@
         "Date": "Feb 26, 2025",
         "Original Price": "N/A",
         "Discount Price": "$9.99",
-        "Reviews": "51426",
+        "Reviews": "53077",
         "Search Filter": "topsellers"
     },
     {
@@ -20,7 +20,7 @@
         "Date": "Mar 27, 2025",
         "Original Price": "N/A",
         "Discount Price": "$59.99",
-        "Reviews": "679",
+        "Reviews": "1041",
         "Search Filter": "topsellers"
     },
     {
@@ -28,15 +28,7 @@
         "Date": "Aug 21, 2012",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "670961",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Assassin\u2019s Creed Shadows",
-        "Date": "Mar 19, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "9611",
+        "Reviews": "672454",
         "Search Filter": "topsellers"
     },
     {
@@ -45,6 +37,30 @@
         "Original Price": "N/A",
         "Discount Price": "$399.00",
         "Reviews": "N/A",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Assassin\u2019s Creed Shadows",
+        "Date": "Mar 19, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "10211",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Apex Legends\u2122",
+        "Date": "Nov 4, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "985017",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Monster Hunter Wilds",
+        "Date": "Feb 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "112272",
         "Search Filter": "topsellers"
     },
     {
@@ -56,27 +72,11 @@
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Stellaris",
-        "Date": "May 9, 2016",
-        "Original Price": "$39.99",
-        "Discount Price": "$9.99",
-        "Reviews": "124266",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Monster Hunter Wilds",
-        "Date": "Feb 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "111194",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Atomfall",
-        "Date": "Mar 27, 2025",
+        "Name": "Split Fiction",
+        "Date": "Mar 6, 2025",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "167",
+        "Reviews": "35907",
         "Search Filter": "topsellers"
     },
     {
@@ -84,119 +84,7 @@
         "Date": "Mar 25, 2013",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "612808",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Psycho Patrol R",
-        "Date": "Mar 23, 2025",
-        "Original Price": "$39.99",
-        "Discount Price": "$35.99",
-        "Reviews": "445",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Split Fiction",
-        "Date": "Mar 6, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "35526",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Dark Deity 2",
-        "Date": "Mar 24, 2025",
-        "Original Price": "$24.99",
-        "Discount Price": "$19.99",
-        "Reviews": "109",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Cyberpunk 2077",
-        "Date": "Dec 9, 2020",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "733313",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "HELLDIVERS\u2122 2",
-        "Date": "Feb 8, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "719479",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Marvel Rivals",
-        "Date": "Dec 5, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "251489",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "War Thunder",
-        "Date": "Aug 15, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "606690",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "THRONE AND LIBERTY",
-        "Date": "Oct 1, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "61509",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "The Sims\u2122 4",
-        "Date": "Jan 31, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "165532",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "FragPunk",
-        "Date": "Mar 6, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "29136",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Tom Clancy's Rainbow Six\u00ae Siege",
-        "Date": "Dec 1, 2015",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "173794",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "MapleStory",
-        "Date": "Aug 9, 2012",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "13579",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "FINAL FANTASY XIV Online",
-        "Date": "Feb 18, 2014",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "72695",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "NBA 2K25",
-        "Date": "Oct 28, 2024",
-        "Original Price": "$69.99",
-        "Discount Price": "$20.99",
-        "Reviews": "16670",
+        "Reviews": "612902",
         "Search Filter": "topsellers"
     },
     {
@@ -204,31 +92,127 @@
         "Date": "Oct 1, 2019",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "621959",
+        "Reviews": "622012",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Kingdom Come: Deliverance II",
-        "Date": "Feb 4, 2025",
+        "Name": "Stellaris",
+        "Date": "May 9, 2016",
+        "Original Price": "$39.99",
+        "Discount Price": "$9.99",
+        "Reviews": "124253",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Atomfall",
+        "Date": "Mar 27, 2025",
         "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "64983",
+        "Discount Price": "$49.99",
+        "Reviews": "275",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "GUILTY GEAR -STRIVE-",
-        "Date": "Jun 11, 2021",
+        "Name": "HELLDIVERS\u2122 2",
+        "Date": "Feb 8, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "719624",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "THRONE AND LIBERTY",
+        "Date": "Oct 1, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "61536",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Tom Clancy's Rainbow Six\u00ae Siege",
+        "Date": "Dec 1, 2015",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "174030",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Marvel Rivals",
+        "Date": "Dec 5, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "251790",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Cyberpunk 2077",
+        "Date": "Dec 9, 2020",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "733523",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "War Thunder",
+        "Date": "Aug 15, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "606884",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "The Sims\u2122 4",
+        "Date": "Jan 31, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "165596",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "FragPunk",
+        "Date": "Mar 6, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "29426",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Warhammer 40,000: Darktide",
+        "Date": "Nov 30, 2022",
         "Original Price": "$39.99",
         "Discount Price": "$19.99",
-        "Reviews": "41429",
+        "Reviews": "88596",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Rust",
-        "Date": "Feb 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$23.99",
-        "Reviews": "999179",
+        "Name": "NBA 2K25",
+        "Date": "Oct 28, 2024",
+        "Original Price": "$69.99",
+        "Discount Price": "$20.99",
+        "Reviews": "16709",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Nordhold",
+        "Date": "Mar 25, 2025",
+        "Original Price": "$19.99",
+        "Discount Price": "$15.99",
+        "Reviews": "87",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Dark Deity 2",
+        "Date": "Mar 24, 2025",
+        "Original Price": "$24.99",
+        "Discount Price": "$19.99",
+        "Reviews": "168",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "MapleStory",
+        "Date": "Aug 9, 2012",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "13580",
         "Search Filter": "topsellers"
     },
     {
@@ -236,39 +220,23 @@
         "Date": "Jun 14, 2016",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "570673",
+        "Reviews": "570725",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Apex Legends\u2122",
-        "Date": "Nov 4, 2020",
+        "Name": "Rust",
+        "Date": "Feb 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$23.99",
+        "Reviews": "999449",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Kingdom Come: Deliverance II",
+        "Date": "Feb 4, 2025",
         "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "984812",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "PGA TOUR 2K25",
-        "Date": "Feb 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "1239",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Hogwarts Legacy",
-        "Date": "Feb 10, 2023",
-        "Original Price": "$59.99",
-        "Discount Price": "$14.99",
-        "Reviews": "226552",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Cyberpunk 2077: Phantom Liberty",
-        "Date": "Sep 25, 2023",
-        "Original Price": "$29.99",
-        "Discount Price": "$22.49",
-        "Reviews": "17999",
+        "Discount Price": "$59.99",
+        "Reviews": "65180",
         "Search Filter": "topsellers"
     },
     {
@@ -276,15 +244,23 @@
         "Date": "Aug 3, 2023",
         "Original Price": "N/A",
         "Discount Price": "$59.99",
-        "Reviews": "651649",
+        "Reviews": "651794",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Wreckfest 2",
-        "Date": "Mar 20, 2025",
-        "Original Price": "$29.99",
-        "Discount Price": "$23.99",
-        "Reviews": "1650",
+        "Name": "Hogwarts Legacy",
+        "Date": "Feb 10, 2023",
+        "Original Price": "$59.99",
+        "Discount Price": "$14.99",
+        "Reviews": "226637",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "FINAL FANTASY XIV Online",
+        "Date": "Feb 18, 2014",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "72700",
         "Search Filter": "topsellers"
     },
     {
@@ -292,79 +268,7 @@
         "Date": "Mar 10, 2015",
         "Original Price": "$29.99",
         "Discount Price": "$2.99",
-        "Reviews": "203318",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "RimWorld",
-        "Date": "Oct 17, 2018",
-        "Original Price": "$34.99",
-        "Discount Price": "$27.99",
-        "Reviews": "174673",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "No Man's Sky",
-        "Date": "Aug 12, 2016",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "262839",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "BLEACH Rebirth of Souls",
-        "Date": "Mar 20, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "2791",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "EA SPORTS FC\u2122 25",
-        "Date": "Sep 26, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$42.00",
-        "Reviews": "56212",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "THE FINALS",
-        "Date": "Dec 7, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "223256",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "ELDEN RING",
-        "Date": "Feb 24, 2022",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "753359",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Black Desert",
-        "Date": "May 24, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$9.99",
-        "Reviews": "58431",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
-        "Date": "Apr 5, 2022",
-        "Original Price": "$49.99",
-        "Discount Price": "$9.99",
-        "Reviews": "35143",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Lost Ark",
-        "Date": "Feb 11, 2022",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "201727",
+        "Reviews": "203442",
         "Search Filter": "topsellers"
     },
     {
@@ -372,23 +276,79 @@
         "Date": "Apr 14, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "65291",
+        "Reviews": "65303",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Overwatch\u00ae 2",
-        "Date": "Aug 10, 2023",
+        "Name": "PGA TOUR 2K25",
+        "Date": "Feb 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "1242",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "RimWorld",
+        "Date": "Oct 17, 2018",
+        "Original Price": "$34.99",
+        "Discount Price": "$27.99",
+        "Reviews": "174721",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Psycho Patrol R",
+        "Date": "Mar 23, 2025",
+        "Original Price": "$39.99",
+        "Discount Price": "$35.99",
+        "Reviews": "615",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Cyberpunk 2077: Phantom Liberty",
+        "Date": "Sep 25, 2023",
+        "Original Price": "$29.99",
+        "Discount Price": "$22.49",
+        "Reviews": "18000",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Wreckfest 2",
+        "Date": "Mar 20, 2025",
+        "Original Price": "$29.99",
+        "Discount Price": "$23.99",
+        "Reviews": "1697",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "No Man's Sky",
+        "Date": "Aug 12, 2016",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "262867",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "ELDEN RING",
+        "Date": "Feb 24, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "753516",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Lost Ark",
+        "Date": "Feb 11, 2022",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "334840",
+        "Reviews": "201725",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Crusader Kings III",
-        "Date": "Sep 1, 2020",
+        "Name": "BLEACH Rebirth of Souls",
+        "Date": "Mar 20, 2025",
         "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "77813",
+        "Discount Price": "$59.99",
+        "Reviews": "2854",
         "Search Filter": "topsellers"
     },
     {
@@ -396,31 +356,7 @@
         "Date": "Nov 16, 2023",
         "Original Price": "N/A",
         "Discount Price": "$35.98",
-        "Reviews": "23470",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Mortal Kombat 1",
-        "Date": "Sep 19, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$16.49",
-        "Reviews": "22716",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "The Elder Scrolls\u00ae Online",
-        "Date": "May 22, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "126031",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Grand Theft Auto V Enhanced",
-        "Date": "Mar 4, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "29972",
+        "Reviews": "23517",
         "Search Filter": "topsellers"
     },
     {
@@ -428,7 +364,71 @@
         "Date": "Feb 10, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "28704",
+        "Reviews": "28824",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "THE FINALS",
+        "Date": "Dec 7, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "223373",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "EA SPORTS FC\u2122 25",
+        "Date": "Sep 26, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$42.00",
+        "Reviews": "56348",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+        "Date": "Apr 5, 2022",
+        "Original Price": "$49.99",
+        "Discount Price": "$9.99",
+        "Reviews": "35151",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Overwatch\u00ae 2",
+        "Date": "Aug 10, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "334917",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Phasmophobia",
+        "Date": "Sep 18, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "619028",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "GUILTY GEAR -STRIVE-",
+        "Date": "Jun 11, 2021",
+        "Original Price": "$39.99",
+        "Discount Price": "$19.99",
+        "Reviews": "41438",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Mortal Kombat 1",
+        "Date": "Sep 19, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$16.49",
+        "Reviews": "22739",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Crusader Kings III",
+        "Date": "Sep 1, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "77806",
         "Search Filter": "topsellers"
     },
     {
@@ -436,23 +436,23 @@
         "Date": "Sep 10, 2024",
         "Original Price": "$39.99",
         "Discount Price": "$27.99",
-        "Reviews": "190824",
+        "Reviews": "190887",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Magic: The Gathering Arena",
-        "Date": "May 23, 2023",
+        "Name": "Call of Duty\u00ae: Black Ops 6",
+        "Date": "Oct 24, 2024",
         "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "17540",
+        "Discount Price": "$69.99",
+        "Reviews": "11117",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Marvel's Spider-Man 2",
-        "Date": "Jan 30, 2025",
+        "Name": "The Elder Scrolls\u00ae Online",
+        "Date": "May 22, 2017",
         "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "11896",
+        "Discount Price": "$19.99",
+        "Reviews": "126052",
         "Search Filter": "topsellers"
     },
     {
@@ -464,67 +464,11 @@
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Call of Duty\u00ae: Black Ops 6",
-        "Date": "Oct 24, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "11115",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Yu-Gi-Oh! Master Duel",
-        "Date": "Jan 18, 2022",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "84189",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "The First Descendant",
-        "Date": "Jun 30, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "99840",
-        "Search Filter": "topsellers"
-    },
-    {
         "Name": "Manor Lords",
         "Date": "Apr 26, 2024",
         "Original Price": "$39.99",
         "Discount Price": "$27.99",
-        "Reviews": "58615",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Once Human",
-        "Date": "Jul 9, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "123414",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Premium Starter Pack - Assassin's Creed Shadows",
-        "Date": "Mar 19, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$34.99",
-        "Reviews": "38",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Phasmophobia",
-        "Date": "Sep 18, 2020",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "618931",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Team Fortress 2",
-        "Date": "Oct 10, 2007",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "148960",
+        "Reviews": "58635",
         "Search Filter": "topsellers"
     },
     {
@@ -532,23 +476,39 @@
         "Date": "Nov 16, 2022",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "42569",
+        "Reviews": "42579",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Conan Exiles",
-        "Date": "May 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$3.99",
-        "Reviews": "71066",
+        "Name": "Black Desert",
+        "Date": "May 24, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$9.99",
+        "Reviews": "58428",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Sky: Children of the Light",
-        "Date": "Apr 10, 2024",
+        "Name": "Magic: The Gathering Arena",
+        "Date": "May 23, 2023",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "16165",
+        "Reviews": "17554",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Team Fortress 2",
+        "Date": "Oct 10, 2007",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "149046",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Grand Theft Auto V Enhanced",
+        "Date": "Mar 4, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "30328",
         "Search Filter": "topsellers"
     },
     {
@@ -556,23 +516,7 @@
         "Date": "Mar 25, 2021",
         "Original Price": "$39.99",
         "Discount Price": "$11.99",
-        "Reviews": "176090",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "GIRLS' FRONTLINE 2: EXILIUM",
-        "Date": "Feb 10, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "1207",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Cities: Skylines II",
-        "Date": "Oct 24, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$39.99",
-        "Reviews": "49249",
+        "Reviews": "176161",
         "Search Filter": "topsellers"
     },
     {
@@ -580,15 +524,23 @@
         "Date": "Dec 13, 2023",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "178714",
+        "Reviews": "178762",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Drive Beyond Horizons",
-        "Date": "Mar 24, 2025",
-        "Original Price": "$24.99",
-        "Discount Price": "$19.99",
-        "Reviews": "196",
+        "Name": "Marvel's Spider-Man 2",
+        "Date": "Jan 30, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "11929",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Conan Exiles",
+        "Date": "May 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$3.99",
+        "Reviews": "71143",
         "Search Filter": "topsellers"
     },
     {
@@ -596,23 +548,23 @@
         "Date": "Feb 20, 2024",
         "Original Price": "N/A",
         "Discount Price": "$14.99",
-        "Reviews": "111491",
+        "Reviews": "111627",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "LEGO\u00ae Harry Potter\u2122 Collection",
-        "Date": "Oct 8, 2024",
-        "Original Price": "$39.99",
-        "Discount Price": "$15.99",
-        "Reviews": "556",
+        "Name": "GIRLS' FRONTLINE 2: EXILIUM",
+        "Date": "Feb 10, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "1216",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Cataclismo",
-        "Date": "Mar 20, 2025",
-        "Original Price": "$29.99",
-        "Discount Price": "$19.49",
-        "Reviews": "2807",
+        "Name": "Once Human",
+        "Date": "Jul 9, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "123468",
         "Search Filter": "topsellers"
     },
     {
@@ -620,47 +572,31 @@
         "Date": "Jun 3, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "303613",
+        "Reviews": "303636",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
-        "Date": "May 16, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "40150",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Path of Exile 2",
-        "Date": "Dec 6, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "105945",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "SMITE 2",
-        "Date": "Aug 27, 2024",
+        "Name": "The First Descendant",
+        "Date": "Jun 30, 2024",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "12311",
+        "Reviews": "99872",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Crysis 3 Remastered",
-        "Date": "Nov 17, 2022",
-        "Original Price": "$29.99",
-        "Discount Price": "$13.49",
-        "Reviews": "5104",
+        "Name": "Mechabellum",
+        "Date": "Sep 26, 2024",
+        "Original Price": "$14.99",
+        "Discount Price": "$11.99",
+        "Reviews": "12758",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "Stardew Valley",
-        "Date": "Feb 26, 2016",
+        "Name": "iRacing",
+        "Date": "Jan 12, 2015",
         "Original Price": "N/A",
-        "Discount Price": "$14.99",
-        "Reviews": "739174",
+        "Discount Price": "$9.99",
+        "Reviews": "3243",
         "Search Filter": "topsellers"
     },
     {
@@ -668,7 +604,71 @@
         "Date": "Nov 12, 2024",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "19563",
+        "Reviews": "19584",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Game of Thrones: Kingsroad",
+        "Date": "Mar 26, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$24.99",
+        "Reviews": "N/A",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Path of Exile 2",
+        "Date": "Dec 6, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "106000",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "LEGO\u00ae Harry Potter\u2122 Collection",
+        "Date": "Oct 8, 2024",
+        "Original Price": "$39.99",
+        "Discount Price": "$15.99",
+        "Reviews": "558",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Palia",
+        "Date": "Mar 25, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "25768",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Stardew Valley",
+        "Date": "Feb 26, 2016",
+        "Original Price": "N/A",
+        "Discount Price": "$14.99",
+        "Reviews": "739408",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "theHunter: Call of the Wild\u2122",
+        "Date": "Feb 16, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "146531",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Premium Starter Pack - Assassin's Creed Shadows",
+        "Date": "Mar 19, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$34.99",
+        "Reviews": "39",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Cities: Skylines II",
+        "Date": "Oct 24, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$39.99",
+        "Reviews": "49276",
         "Search Filter": "topsellers"
     },
     {
@@ -676,7 +676,55 @@
         "Date": "Oct 25, 2023",
         "Original Price": "N/A",
         "Discount Price": "$44.99",
-        "Reviews": "66083",
+        "Reviews": "66115",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "BeamNG.drive",
+        "Date": "May 29, 2015",
+        "Original Price": "N/A",
+        "Discount Price": "$24.99",
+        "Reviews": "285661",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Total War: WARHAMMER III",
+        "Date": "Feb 16, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "82040",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Yu-Gi-Oh! Master Duel",
+        "Date": "Jan 18, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "84213",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Crysis 3 Remastered",
+        "Date": "Nov 17, 2022",
+        "Original Price": "$29.99",
+        "Discount Price": "$13.49",
+        "Reviews": "5111",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Diplomacy is Not an Option",
+        "Date": "Oct 4, 2024",
+        "Original Price": "$29.99",
+        "Discount Price": "$14.99",
+        "Reviews": "8008",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Oxygen Not Included",
+        "Date": "Jul 30, 2019",
+        "Original Price": "$24.99",
+        "Discount Price": "$8.49",
+        "Reviews": "118620",
         "Search Filter": "topsellers"
     },
     {
@@ -684,15 +732,7 @@
         "Date": "Mar 4, 2025",
         "Original Price": "N/A",
         "Discount Price": "$29.99",
-        "Reviews": "3208",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "PUBG: BATTLEGROUNDS",
-        "Date": "Dec 21, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "523320",
+        "Reviews": "3257",
         "Search Filter": "topsellers"
     },
     {
@@ -700,31 +740,31 @@
         "Date": "Aug 15, 2024",
         "Original Price": "$69.99",
         "Discount Price": "$13.99",
-        "Reviews": "3376",
+        "Reviews": "3381",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "WWE 2K25",
-        "Date": "Mar 13, 2025",
+        "Name": "Factorio",
+        "Date": "Aug 14, 2020",
         "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "991",
+        "Discount Price": "$35.00",
+        "Reviews": "168545",
         "Search Filter": "topsellers"
     },
     {
-        "Name": "DEATH STRANDING DIRECTOR'S CUT",
-        "Date": "Mar 30, 2022",
-        "Original Price": "$39.99",
-        "Discount Price": "$19.99",
-        "Reviews": "26397",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-        "Date": "Jun 13, 2024",
+        "Name": "Guild Wars 2",
+        "Date": "Aug 23, 2022",
         "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "6142",
+        "Discount Price": "Free",
+        "Reviews": "20696",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "AI LIMIT",
+        "Date": "Mar 27, 2025",
+        "Original Price": "$34.99",
+        "Discount Price": "$31.49",
+        "Reviews": "N/A",
         "Search Filter": "topsellers"
     },
     {
@@ -736,75 +776,35 @@
         "Search Filter": "topsellers"
     },
     {
-        "Name": "The Elder Scrolls V: Skyrim Special Edition",
-        "Date": "Oct 27, 2016",
+        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
+        "Date": "May 16, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "40218",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "Hunt: Showdown 1896",
+        "Date": "Aug 27, 2019",
+        "Original Price": "$29.99",
+        "Discount Price": "$14.99",
+        "Reviews": "190212",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "WWE 2K25",
+        "Date": "Mar 13, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "1011",
+        "Search Filter": "topsellers"
+    },
+    {
+        "Name": "WARNO",
+        "Date": "May 23, 2024",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "184490",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "iRacing",
-        "Date": "Jan 12, 2015",
-        "Original Price": "N/A",
-        "Discount Price": "$9.99",
-        "Reviews": "3243",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "STAR WARS\u2122: The Old Republic\u2122",
-        "Date": "Jul 21, 2020",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "66239",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "The Witcher 3: Wild Hunt",
-        "Date": "May 18, 2015",
-        "Original Price": "$39.99",
-        "Discount Price": "$7.99",
-        "Reviews": "753637",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Crysis 2 Remastered",
-        "Date": "Nov 17, 2022",
-        "Original Price": "$29.99",
-        "Discount Price": "$11.99",
-        "Reviews": "5962",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Palworld",
-        "Date": "Jan 18, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "316517",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Oxygen Not Included",
-        "Date": "Jul 30, 2019",
-        "Original Price": "$24.99",
-        "Discount Price": "$8.49",
-        "Reviews": "118596",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "STAR WARS Jedi: Survivor\u2122",
-        "Date": "Apr 27, 2023",
-        "Original Price": "$69.99",
-        "Discount Price": "$17.49",
-        "Reviews": "58389",
-        "Search Filter": "topsellers"
-    },
-    {
-        "Name": "Factorio",
-        "Date": "Aug 14, 2020",
-        "Original Price": "N/A",
-        "Discount Price": "$35.00",
-        "Reviews": "168517",
+        "Reviews": "10948",
         "Search Filter": "topsellers"
     },
     {
@@ -812,7 +812,7 @@
         "Date": "Feb 26, 2025",
         "Original Price": "N/A",
         "Discount Price": "$9.99",
-        "Reviews": "51426",
+        "Reviews": "53077",
         "Search Filter": "mostplayed"
     },
     {
@@ -820,7 +820,7 @@
         "Date": "Aug 21, 2012",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "670961",
+        "Reviews": "672454",
         "Search Filter": "mostplayed"
     },
     {
@@ -828,7 +828,7 @@
         "Date": "Mar 19, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "9611",
+        "Reviews": "10211",
         "Search Filter": "mostplayed"
     },
     {
@@ -836,15 +836,7 @@
         "Date": "Mar 6, 2025",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "35526",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Warframe",
-        "Date": "Mar 25, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "612808",
+        "Reviews": "35907",
         "Search Filter": "mostplayed"
     },
     {
@@ -852,7 +844,15 @@
         "Date": "Mar 24, 2025",
         "Original Price": "$19.99",
         "Discount Price": "$16.99",
-        "Reviews": "1973",
+        "Reviews": "4008",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Warframe",
+        "Date": "Mar 25, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "612902",
         "Search Filter": "mostplayed"
     },
     {
@@ -860,15 +860,7 @@
         "Date": "Feb 27, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "111194",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Cyberpunk 2077",
-        "Date": "Dec 9, 2020",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "733313",
+        "Reviews": "112272",
         "Search Filter": "mostplayed"
     },
     {
@@ -876,23 +868,15 @@
         "Date": "Dec 5, 2024",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "251489",
+        "Reviews": "251790",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "The Sims\u2122 4",
-        "Date": "Jan 31, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "165532",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "HELLDIVERS\u2122 2",
-        "Date": "Feb 8, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "719479",
+        "Name": "Cyberpunk 2077",
+        "Date": "Dec 9, 2020",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "733523",
         "Search Filter": "mostplayed"
     },
     {
@@ -900,87 +884,7 @@
         "Date": "Dec 1, 2015",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "173794",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Kingdom Come: Deliverance II",
-        "Date": "Feb 4, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "64983",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Stellaris",
-        "Date": "May 9, 2016",
-        "Original Price": "$39.99",
-        "Discount Price": "$9.99",
-        "Reviews": "124266",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "The First Berserker: Khazan",
-        "Date": "Mar 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "679",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "War Thunder",
-        "Date": "Aug 15, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "606690",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "THRONE AND LIBERTY",
-        "Date": "Oct 1, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "61509",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "FragPunk",
-        "Date": "Mar 6, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "29136",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Baldur's Gate 3",
-        "Date": "Aug 3, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "651649",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Rust",
-        "Date": "Feb 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$23.99",
-        "Reviews": "999179",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "NBA 2K25",
-        "Date": "Oct 28, 2024",
-        "Original Price": "$69.99",
-        "Discount Price": "$20.99",
-        "Reviews": "16670",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Destiny 2",
-        "Date": "Oct 1, 2019",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "621959",
+        "Reviews": "174030",
         "Search Filter": "mostplayed"
     },
     {
@@ -988,15 +892,103 @@
         "Date": "Nov 4, 2020",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "984812",
+        "Reviews": "985017",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Cyberpunk 2077: Phantom Liberty",
-        "Date": "Sep 25, 2023",
-        "Original Price": "$29.99",
-        "Discount Price": "$22.49",
-        "Reviews": "17999",
+        "Name": "Destiny 2",
+        "Date": "Oct 1, 2019",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "622012",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "HELLDIVERS\u2122 2",
+        "Date": "Feb 8, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "719624",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "The Sims\u2122 4",
+        "Date": "Jan 31, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "165596",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "The First Berserker: Khazan",
+        "Date": "Mar 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "1041",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "THRONE AND LIBERTY",
+        "Date": "Oct 1, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "61536",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Kingdom Come: Deliverance II",
+        "Date": "Feb 4, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "65180",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Stellaris",
+        "Date": "May 9, 2016",
+        "Original Price": "$39.99",
+        "Discount Price": "$9.99",
+        "Reviews": "124253",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "War Thunder",
+        "Date": "Aug 15, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "606884",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Baldur's Gate 3",
+        "Date": "Aug 3, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "651794",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "FragPunk",
+        "Date": "Mar 6, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "29426",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Rust",
+        "Date": "Feb 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$23.99",
+        "Reviews": "999449",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "NBA 2K25",
+        "Date": "Oct 28, 2024",
+        "Original Price": "$69.99",
+        "Discount Price": "$20.99",
+        "Reviews": "16709",
         "Search Filter": "mostplayed"
     },
     {
@@ -1004,15 +996,7 @@
         "Date": "Jun 14, 2016",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "570673",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "FINAL FANTASY XIV Online",
-        "Date": "Feb 18, 2014",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "72695",
+        "Reviews": "570725",
         "Search Filter": "mostplayed"
     },
     {
@@ -1020,7 +1004,7 @@
         "Date": "Feb 24, 2022",
         "Original Price": "N/A",
         "Discount Price": "$59.99",
-        "Reviews": "753359",
+        "Reviews": "753516",
         "Search Filter": "mostplayed"
     },
     {
@@ -1028,31 +1012,23 @@
         "Date": "Feb 10, 2023",
         "Original Price": "$59.99",
         "Discount Price": "$14.99",
-        "Reviews": "226552",
+        "Reviews": "226637",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "MapleStory",
-        "Date": "Aug 9, 2012",
+        "Name": "Cyberpunk 2077: Phantom Liberty",
+        "Date": "Sep 25, 2023",
+        "Original Price": "$29.99",
+        "Discount Price": "$22.49",
+        "Reviews": "18000",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "FINAL FANTASY XIV Online",
+        "Date": "Feb 18, 2014",
         "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "13579",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "EA SPORTS FC\u2122 25",
-        "Date": "Sep 26, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$42.00",
-        "Reviews": "56212",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "No Man's Sky",
-        "Date": "Aug 12, 2016",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "262839",
+        "Discount Price": "$19.99",
+        "Reviews": "72700",
         "Search Filter": "mostplayed"
     },
     {
@@ -1060,127 +1036,15 @@
         "Date": "Feb 10, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "28704",
+        "Reviews": "28824",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Crusader Kings III",
-        "Date": "Sep 1, 2020",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "77813",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "PGA TOUR 2K25",
-        "Date": "Feb 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "1239",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "RimWorld",
-        "Date": "Oct 17, 2018",
-        "Original Price": "$34.99",
-        "Discount Price": "$27.99",
-        "Reviews": "174673",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Lost Ark",
-        "Date": "Feb 11, 2022",
+        "Name": "MapleStory",
+        "Date": "Aug 9, 2012",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "201727",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Arma Reforger",
-        "Date": "Nov 16, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$35.98",
-        "Reviews": "23470",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "The Elder Scrolls\u00ae Online",
-        "Date": "May 22, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "126031",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "BLEACH Rebirth of Souls",
-        "Date": "Mar 20, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "2791",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Marvel's Spider-Man 2",
-        "Date": "Jan 30, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "11896",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Black Desert",
-        "Date": "May 24, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$9.99",
-        "Reviews": "58431",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Yu-Gi-Oh! Master Duel",
-        "Date": "Jan 18, 2022",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "84189",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Satisfactory",
-        "Date": "Sep 10, 2024",
-        "Original Price": "$39.99",
-        "Discount Price": "$27.99",
-        "Reviews": "190824",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Call of Duty\u00ae: Black Ops 6",
-        "Date": "Oct 24, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "11115",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Wreckfest 2",
-        "Date": "Mar 20, 2025",
-        "Original Price": "$29.99",
-        "Discount Price": "$23.99",
-        "Reviews": "1650",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Atomfall",
-        "Date": "Mar 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "167",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Path of Exile 2",
-        "Date": "Dec 6, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "105945",
+        "Reviews": "13580",
         "Search Filter": "mostplayed"
     },
     {
@@ -1188,7 +1052,63 @@
         "Date": "Apr 14, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "65291",
+        "Reviews": "65303",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Lost Ark",
+        "Date": "Feb 11, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "201725",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "PGA TOUR 2K25",
+        "Date": "Feb 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "1242",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "No Man's Sky",
+        "Date": "Aug 12, 2016",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "262867",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "EA SPORTS FC\u2122 25",
+        "Date": "Sep 26, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$42.00",
+        "Reviews": "56348",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "RimWorld",
+        "Date": "Oct 17, 2018",
+        "Original Price": "$34.99",
+        "Discount Price": "$27.99",
+        "Reviews": "174721",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Arma Reforger",
+        "Date": "Nov 16, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$35.98",
+        "Reviews": "23517",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Crusader Kings III",
+        "Date": "Sep 1, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "77806",
         "Search Filter": "mostplayed"
     },
     {
@@ -1196,7 +1116,79 @@
         "Date": "Sep 18, 2020",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "618931",
+        "Reviews": "619028",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Satisfactory",
+        "Date": "Sep 10, 2024",
+        "Original Price": "$39.99",
+        "Discount Price": "$27.99",
+        "Reviews": "190887",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Call of Duty\u00ae: Black Ops 6",
+        "Date": "Oct 24, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "11117",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "BLEACH Rebirth of Souls",
+        "Date": "Mar 20, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "2854",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Atomfall",
+        "Date": "Mar 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "275",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "The Elder Scrolls\u00ae Online",
+        "Date": "May 22, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "126052",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Path of Exile 2",
+        "Date": "Dec 6, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "106000",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Marvel's Spider-Man 2",
+        "Date": "Jan 30, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "11929",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Ready or Not",
+        "Date": "Dec 13, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "178762",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Wreckfest 2",
+        "Date": "Mar 20, 2025",
+        "Original Price": "$29.99",
+        "Discount Price": "$23.99",
+        "Reviews": "1697",
         "Search Filter": "mostplayed"
     },
     {
@@ -1208,43 +1200,11 @@
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Once Human",
-        "Date": "Jul 9, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "123414",
-        "Search Filter": "mostplayed"
-    },
-    {
         "Name": "Cities: Skylines",
         "Date": "Mar 10, 2015",
         "Original Price": "$29.99",
         "Discount Price": "$2.99",
-        "Reviews": "203318",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "PUBG: BATTLEGROUNDS",
-        "Date": "Dec 21, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "523320",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "The First Descendant",
-        "Date": "Jun 30, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "99840",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Ready or Not",
-        "Date": "Dec 13, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "178714",
+        "Reviews": "203442",
         "Search Filter": "mostplayed"
     },
     {
@@ -1252,7 +1212,23 @@
         "Date": "Mar 25, 2021",
         "Original Price": "$39.99",
         "Discount Price": "$11.99",
-        "Reviews": "176090",
+        "Reviews": "176161",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Black Desert",
+        "Date": "May 24, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$9.99",
+        "Reviews": "58428",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Balatro",
+        "Date": "Feb 20, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$14.99",
+        "Reviews": "111627",
         "Search Filter": "mostplayed"
     },
     {
@@ -1260,7 +1236,7 @@
         "Date": "Dec 7, 2023",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "223256",
+        "Reviews": "223373",
         "Search Filter": "mostplayed"
     },
     {
@@ -1272,35 +1248,11 @@
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Balatro",
-        "Date": "Feb 20, 2024",
+        "Name": "Once Human",
+        "Date": "Jul 9, 2024",
         "Original Price": "N/A",
-        "Discount Price": "$14.99",
-        "Reviews": "111491",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Two Point Museum",
-        "Date": "Mar 4, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "3208",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
-        "Date": "May 16, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "40150",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Stardew Valley",
-        "Date": "Feb 26, 2016",
-        "Original Price": "N/A",
-        "Discount Price": "$14.99",
-        "Reviews": "739174",
+        "Discount Price": "Free",
+        "Reviews": "123468",
         "Search Filter": "mostplayed"
     },
     {
@@ -1308,15 +1260,39 @@
         "Date": "Oct 10, 2007",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "148960",
+        "Reviews": "149046",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Red Dead Redemption 2",
-        "Date": "Dec 5, 2019",
+        "Name": "Yu-Gi-Oh! Master Duel",
+        "Date": "Jan 18, 2022",
         "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "647340",
+        "Discount Price": "Free",
+        "Reviews": "84213",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "The First Descendant",
+        "Date": "Jun 30, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "99872",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Warhammer 40,000: Darktide",
+        "Date": "Nov 30, 2022",
+        "Original Price": "$39.99",
+        "Discount Price": "$19.99",
+        "Reviews": "88596",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Stardew Valley",
+        "Date": "Feb 26, 2016",
+        "Original Price": "N/A",
+        "Discount Price": "$14.99",
+        "Reviews": "739408",
         "Search Filter": "mostplayed"
     },
     {
@@ -1324,15 +1300,23 @@
         "Date": "Jun 3, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "303613",
+        "Reviews": "303636",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Magic: The Gathering Arena",
-        "Date": "May 23, 2023",
+        "Name": "Two Point Museum",
+        "Date": "Mar 4, 2025",
         "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "17540",
+        "Discount Price": "$29.99",
+        "Reviews": "3257",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Red Dead Redemption 2",
+        "Date": "Dec 5, 2019",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "647667",
         "Search Filter": "mostplayed"
     },
     {
@@ -1340,23 +1324,23 @@
         "Date": "Apr 26, 2024",
         "Original Price": "$39.99",
         "Discount Price": "$27.99",
-        "Reviews": "58615",
+        "Reviews": "58635",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Grand Theft Auto V Enhanced",
-        "Date": "Mar 4, 2025",
+        "Name": "Magic: The Gathering Arena",
+        "Date": "May 23, 2023",
         "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "29972",
+        "Discount Price": "Free",
+        "Reviews": "17554",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "ARK: Survival Ascended",
-        "Date": "Oct 25, 2023",
+        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
+        "Date": "May 16, 2024",
         "Original Price": "N/A",
-        "Discount Price": "$44.99",
-        "Reviews": "66083",
+        "Discount Price": "$59.99",
+        "Reviews": "40218",
         "Search Filter": "mostplayed"
     },
     {
@@ -1364,103 +1348,15 @@
         "Date": "Nov 12, 2024",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "19563",
+        "Reviews": "19584",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "GUILTY GEAR -STRIVE-",
-        "Date": "Jun 11, 2021",
-        "Original Price": "$39.99",
-        "Discount Price": "$19.99",
-        "Reviews": "41429",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Palworld",
-        "Date": "Jan 18, 2024",
+        "Name": "ARK: Survival Ascended",
+        "Date": "Oct 25, 2023",
         "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "316517",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Hello Kitty Island Adventure",
-        "Date": "Jan 30, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "3648",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-        "Date": "Jun 13, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "6142",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Dota 2",
-        "Date": "Jul 9, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "459732",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Psycho Patrol R",
-        "Date": "Mar 23, 2025",
-        "Original Price": "$39.99",
-        "Discount Price": "$35.99",
-        "Reviews": "445",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Limbus Company",
-        "Date": "Feb 26, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "53673",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Delta Force",
-        "Date": "Dec 4, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "93903",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "WWE 2K25",
-        "Date": "Mar 13, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "991",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Mortal Kombat 1",
-        "Date": "Sep 19, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$16.49",
-        "Reviews": "22716",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Enshrouded",
-        "Date": "Jan 24, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "65799",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "The Elder Scrolls V: Skyrim Special Edition",
-        "Date": "Oct 27, 2016",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "184490",
+        "Discount Price": "$44.99",
+        "Reviews": "66115",
         "Search Filter": "mostplayed"
     },
     {
@@ -1472,11 +1368,59 @@
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "The Witcher 3: Wild Hunt",
-        "Date": "May 18, 2015",
-        "Original Price": "$39.99",
-        "Discount Price": "$7.99",
-        "Reviews": "753637",
+        "Name": "BeamNG.drive",
+        "Date": "May 29, 2015",
+        "Original Price": "N/A",
+        "Discount Price": "$24.99",
+        "Reviews": "285661",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Grand Theft Auto V Enhanced",
+        "Date": "Mar 4, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "30328",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Total War: WARHAMMER III",
+        "Date": "Feb 16, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "82040",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Enshrouded",
+        "Date": "Jan 24, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "65827",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Palworld",
+        "Date": "Jan 18, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "316588",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Hello Kitty Island Adventure",
+        "Date": "Jan 30, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "3661",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Mortal Kombat 1",
+        "Date": "Sep 19, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$16.49",
+        "Reviews": "22739",
         "Search Filter": "mostplayed"
     },
     {
@@ -1484,55 +1428,15 @@
         "Date": "Feb 22, 2024",
         "Original Price": "N/A",
         "Discount Price": "$29.99",
-        "Reviews": "217576",
+        "Reviews": "217664",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Factorio",
-        "Date": "Aug 14, 2020",
+        "Name": "PUBG: BATTLEGROUNDS",
+        "Date": "Dec 21, 2017",
         "Original Price": "N/A",
-        "Discount Price": "$35.00",
-        "Reviews": "168517",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Black Myth: Wukong",
-        "Date": "Aug 19, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "827336",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Conan Exiles",
-        "Date": "May 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$3.99",
-        "Reviews": "71066",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Deep Rock Galactic",
-        "Date": "May 13, 2020",
-        "Original Price": "$29.99",
-        "Discount Price": "$9.89",
-        "Reviews": "268939",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "BeamNG.drive",
-        "Date": "May 29, 2015",
-        "Original Price": "N/A",
-        "Discount Price": "$24.99",
-        "Reviews": "285540",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Cities: Skylines II",
-        "Date": "Oct 24, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$39.99",
-        "Reviews": "49249",
+        "Discount Price": "Free",
+        "Reviews": "523660",
         "Search Filter": "mostplayed"
     },
     {
@@ -1540,23 +1444,103 @@
         "Date": "Feb 2, 2016",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "141273",
+        "Reviews": "141302",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Hearts of Iron IV",
-        "Date": "Apr 9, 2024",
+        "Name": "WWE 2K25",
+        "Date": "Mar 13, 2025",
         "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "232223",
+        "Discount Price": "$59.99",
+        "Reviews": "1011",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "STAR WARS\u2122: The Old Republic\u2122",
-        "Date": "Jul 21, 2020",
+        "Name": "Factorio",
+        "Date": "Aug 14, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$35.00",
+        "Reviews": "168545",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Conan Exiles",
+        "Date": "May 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$3.99",
+        "Reviews": "71143",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Limbus Company",
+        "Date": "Feb 26, 2023",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "66239",
+        "Reviews": "53730",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Deep Rock Galactic",
+        "Date": "May 13, 2020",
+        "Original Price": "$29.99",
+        "Discount Price": "$9.89",
+        "Reviews": "268993",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Black Myth: Wukong",
+        "Date": "Aug 19, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "827414",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "theHunter: Call of the Wild\u2122",
+        "Date": "Feb 16, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "146531",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "GUILTY GEAR -STRIVE-",
+        "Date": "Jun 11, 2021",
+        "Original Price": "$39.99",
+        "Discount Price": "$19.99",
+        "Reviews": "41438",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Warhammer 40,000: Space Marine 2",
+        "Date": "Sep 9, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "113700",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "The Elder Scrolls V: Skyrim Special Edition",
+        "Date": "Oct 27, 2016",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "184540",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Delta Force",
+        "Date": "Dec 4, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "94070",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "The Witcher 3: Wild Hunt",
+        "Date": "May 18, 2015",
+        "Original Price": "$39.99",
+        "Discount Price": "$7.99",
+        "Reviews": "753723",
         "Search Filter": "mostplayed"
     },
     {
@@ -1564,15 +1548,63 @@
         "Date": "Feb 18, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "8098",
+        "Reviews": "8118",
         "Search Filter": "mostplayed"
     },
     {
-        "Name": "Overwatch\u00ae 2",
-        "Date": "Aug 10, 2023",
+        "Name": "DayZ",
+        "Date": "Dec 13, 2018",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "351206",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Project Zomboid",
+        "Date": "Nov 8, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "277614",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Valheim",
+        "Date": "Feb 2, 2021",
+        "Original Price": "$19.99",
+        "Discount Price": "$9.99",
+        "Reviews": "419267",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Cities: Skylines II",
+        "Date": "Oct 24, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$39.99",
+        "Reviews": "49276",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "Psycho Patrol R",
+        "Date": "Mar 23, 2025",
+        "Original Price": "$39.99",
+        "Discount Price": "$35.99",
+        "Reviews": "615",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "STAR WARS\u2122: The Old Republic\u2122",
+        "Date": "Jul 21, 2020",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "334840",
+        "Reviews": "66251",
+        "Search Filter": "mostplayed"
+    },
+    {
+        "Name": "EA SPORTS\u2122 Madden NFL 25",
+        "Date": "Aug 15, 2024",
+        "Original Price": "$69.99",
+        "Discount Price": "$13.99",
+        "Reviews": "3381",
         "Search Filter": "mostplayed"
     },
     {
@@ -1580,39 +1612,7 @@
         "Date": "Jun 20, 2024",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "80276",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Forza Horizon 5",
-        "Date": "Nov 8, 2021",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "199484",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "FINAL FANTASY VII REBIRTH",
-        "Date": "Jan 23, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "12111",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "Foundation",
-        "Date": "Jan 31, 2025",
-        "Original Price": "$34.99",
-        "Discount Price": "$26.24",
-        "Reviews": "18234",
-        "Search Filter": "mostplayed"
-    },
-    {
-        "Name": "DEATH STRANDING DIRECTOR'S CUT",
-        "Date": "Mar 30, 2022",
-        "Original Price": "$39.99",
-        "Discount Price": "$19.99",
-        "Reviews": "26397",
+        "Reviews": "80282",
         "Search Filter": "mostplayed"
     },
     {
@@ -1620,7 +1620,7 @@
         "Date": "Feb 26, 2025",
         "Original Price": "N/A",
         "Discount Price": "$9.99",
-        "Reviews": "51426",
+        "Reviews": "53077",
         "Search Filter": "newreleases"
     },
     {
@@ -1628,7 +1628,7 @@
         "Date": "Aug 21, 2012",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "670961",
+        "Reviews": "672454",
         "Search Filter": "newreleases"
     },
     {
@@ -1636,7 +1636,7 @@
         "Date": "Mar 19, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "9611",
+        "Reviews": "10211",
         "Search Filter": "newreleases"
     },
     {
@@ -1644,15 +1644,7 @@
         "Date": "Mar 6, 2025",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "35526",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Warframe",
-        "Date": "Mar 25, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "612808",
+        "Reviews": "35907",
         "Search Filter": "newreleases"
     },
     {
@@ -1660,7 +1652,15 @@
         "Date": "Mar 24, 2025",
         "Original Price": "$19.99",
         "Discount Price": "$16.99",
-        "Reviews": "1973",
+        "Reviews": "4008",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Warframe",
+        "Date": "Mar 25, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "612902",
         "Search Filter": "newreleases"
     },
     {
@@ -1668,15 +1668,7 @@
         "Date": "Feb 27, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "111194",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Cyberpunk 2077",
-        "Date": "Dec 9, 2020",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "733313",
+        "Reviews": "112272",
         "Search Filter": "newreleases"
     },
     {
@@ -1684,23 +1676,15 @@
         "Date": "Dec 5, 2024",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "251489",
+        "Reviews": "251790",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "The Sims\u2122 4",
-        "Date": "Jan 31, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "165532",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "HELLDIVERS\u2122 2",
-        "Date": "Feb 8, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "719479",
+        "Name": "Cyberpunk 2077",
+        "Date": "Dec 9, 2020",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "733523",
         "Search Filter": "newreleases"
     },
     {
@@ -1708,87 +1692,7 @@
         "Date": "Dec 1, 2015",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "173794",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Kingdom Come: Deliverance II",
-        "Date": "Feb 4, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "64983",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Stellaris",
-        "Date": "May 9, 2016",
-        "Original Price": "$39.99",
-        "Discount Price": "$9.99",
-        "Reviews": "124266",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "The First Berserker: Khazan",
-        "Date": "Mar 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "679",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "War Thunder",
-        "Date": "Aug 15, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "606690",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "THRONE AND LIBERTY",
-        "Date": "Oct 1, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "61509",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "FragPunk",
-        "Date": "Mar 6, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "29136",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Baldur's Gate 3",
-        "Date": "Aug 3, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "651649",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Rust",
-        "Date": "Feb 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$23.99",
-        "Reviews": "999179",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "NBA 2K25",
-        "Date": "Oct 28, 2024",
-        "Original Price": "$69.99",
-        "Discount Price": "$20.99",
-        "Reviews": "16670",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Destiny 2",
-        "Date": "Oct 1, 2019",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "621959",
+        "Reviews": "174030",
         "Search Filter": "newreleases"
     },
     {
@@ -1796,15 +1700,103 @@
         "Date": "Nov 4, 2020",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "984812",
+        "Reviews": "985017",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Cyberpunk 2077: Phantom Liberty",
-        "Date": "Sep 25, 2023",
-        "Original Price": "$29.99",
-        "Discount Price": "$22.49",
-        "Reviews": "17999",
+        "Name": "Destiny 2",
+        "Date": "Oct 1, 2019",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "622012",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "HELLDIVERS\u2122 2",
+        "Date": "Feb 8, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "719624",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "The Sims\u2122 4",
+        "Date": "Jan 31, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "165596",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "The First Berserker: Khazan",
+        "Date": "Mar 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "1041",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "THRONE AND LIBERTY",
+        "Date": "Oct 1, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "61536",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Kingdom Come: Deliverance II",
+        "Date": "Feb 4, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "65180",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Stellaris",
+        "Date": "May 9, 2016",
+        "Original Price": "$39.99",
+        "Discount Price": "$9.99",
+        "Reviews": "124253",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "War Thunder",
+        "Date": "Aug 15, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "606884",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Baldur's Gate 3",
+        "Date": "Aug 3, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "651794",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "FragPunk",
+        "Date": "Mar 6, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "29426",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Rust",
+        "Date": "Feb 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$23.99",
+        "Reviews": "999449",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "NBA 2K25",
+        "Date": "Oct 28, 2024",
+        "Original Price": "$69.99",
+        "Discount Price": "$20.99",
+        "Reviews": "16709",
         "Search Filter": "newreleases"
     },
     {
@@ -1812,15 +1804,7 @@
         "Date": "Jun 14, 2016",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "570673",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "FINAL FANTASY XIV Online",
-        "Date": "Feb 18, 2014",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "72695",
+        "Reviews": "570725",
         "Search Filter": "newreleases"
     },
     {
@@ -1828,7 +1812,7 @@
         "Date": "Feb 24, 2022",
         "Original Price": "N/A",
         "Discount Price": "$59.99",
-        "Reviews": "753359",
+        "Reviews": "753516",
         "Search Filter": "newreleases"
     },
     {
@@ -1836,31 +1820,23 @@
         "Date": "Feb 10, 2023",
         "Original Price": "$59.99",
         "Discount Price": "$14.99",
-        "Reviews": "226552",
+        "Reviews": "226637",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "MapleStory",
-        "Date": "Aug 9, 2012",
+        "Name": "Cyberpunk 2077: Phantom Liberty",
+        "Date": "Sep 25, 2023",
+        "Original Price": "$29.99",
+        "Discount Price": "$22.49",
+        "Reviews": "18000",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "FINAL FANTASY XIV Online",
+        "Date": "Feb 18, 2014",
         "Original Price": "N/A",
-        "Discount Price": "N/A",
-        "Reviews": "13579",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "EA SPORTS FC\u2122 25",
-        "Date": "Sep 26, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$42.00",
-        "Reviews": "56212",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "No Man's Sky",
-        "Date": "Aug 12, 2016",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "262839",
+        "Discount Price": "$19.99",
+        "Reviews": "72700",
         "Search Filter": "newreleases"
     },
     {
@@ -1868,127 +1844,15 @@
         "Date": "Feb 10, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "28704",
+        "Reviews": "28824",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Crusader Kings III",
-        "Date": "Sep 1, 2020",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "77813",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "PGA TOUR 2K25",
-        "Date": "Feb 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "1239",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "RimWorld",
-        "Date": "Oct 17, 2018",
-        "Original Price": "$34.99",
-        "Discount Price": "$27.99",
-        "Reviews": "174673",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Lost Ark",
-        "Date": "Feb 11, 2022",
+        "Name": "MapleStory",
+        "Date": "Aug 9, 2012",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "201727",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Arma Reforger",
-        "Date": "Nov 16, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$35.98",
-        "Reviews": "23470",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "The Elder Scrolls\u00ae Online",
-        "Date": "May 22, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "126031",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "BLEACH Rebirth of Souls",
-        "Date": "Mar 20, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "2791",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Marvel's Spider-Man 2",
-        "Date": "Jan 30, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "11896",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Black Desert",
-        "Date": "May 24, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$9.99",
-        "Reviews": "58431",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Yu-Gi-Oh! Master Duel",
-        "Date": "Jan 18, 2022",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "84189",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Satisfactory",
-        "Date": "Sep 10, 2024",
-        "Original Price": "$39.99",
-        "Discount Price": "$27.99",
-        "Reviews": "190824",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Call of Duty\u00ae: Black Ops 6",
-        "Date": "Oct 24, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "11115",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Wreckfest 2",
-        "Date": "Mar 20, 2025",
-        "Original Price": "$29.99",
-        "Discount Price": "$23.99",
-        "Reviews": "1650",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Atomfall",
-        "Date": "Mar 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "167",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Path of Exile 2",
-        "Date": "Dec 6, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "105945",
+        "Reviews": "13580",
         "Search Filter": "newreleases"
     },
     {
@@ -1996,7 +1860,63 @@
         "Date": "Apr 14, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "65291",
+        "Reviews": "65303",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Lost Ark",
+        "Date": "Feb 11, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "201725",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "PGA TOUR 2K25",
+        "Date": "Feb 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "1242",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "No Man's Sky",
+        "Date": "Aug 12, 2016",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "262867",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "EA SPORTS FC\u2122 25",
+        "Date": "Sep 26, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$42.00",
+        "Reviews": "56348",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "RimWorld",
+        "Date": "Oct 17, 2018",
+        "Original Price": "$34.99",
+        "Discount Price": "$27.99",
+        "Reviews": "174721",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Arma Reforger",
+        "Date": "Nov 16, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$35.98",
+        "Reviews": "23517",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Crusader Kings III",
+        "Date": "Sep 1, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "77806",
         "Search Filter": "newreleases"
     },
     {
@@ -2004,7 +1924,79 @@
         "Date": "Sep 18, 2020",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "618931",
+        "Reviews": "619028",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Satisfactory",
+        "Date": "Sep 10, 2024",
+        "Original Price": "$39.99",
+        "Discount Price": "$27.99",
+        "Reviews": "190887",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Call of Duty\u00ae: Black Ops 6",
+        "Date": "Oct 24, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "11117",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "BLEACH Rebirth of Souls",
+        "Date": "Mar 20, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "2854",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Atomfall",
+        "Date": "Mar 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "275",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "The Elder Scrolls\u00ae Online",
+        "Date": "May 22, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "126052",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Path of Exile 2",
+        "Date": "Dec 6, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "106000",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Marvel's Spider-Man 2",
+        "Date": "Jan 30, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "11929",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Ready or Not",
+        "Date": "Dec 13, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "178762",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Wreckfest 2",
+        "Date": "Mar 20, 2025",
+        "Original Price": "$29.99",
+        "Discount Price": "$23.99",
+        "Reviews": "1697",
         "Search Filter": "newreleases"
     },
     {
@@ -2016,43 +2008,11 @@
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Once Human",
-        "Date": "Jul 9, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "123414",
-        "Search Filter": "newreleases"
-    },
-    {
         "Name": "Cities: Skylines",
         "Date": "Mar 10, 2015",
         "Original Price": "$29.99",
         "Discount Price": "$2.99",
-        "Reviews": "203318",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "PUBG: BATTLEGROUNDS",
-        "Date": "Dec 21, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "523320",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "The First Descendant",
-        "Date": "Jun 30, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "99840",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Ready or Not",
-        "Date": "Dec 13, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "178714",
+        "Reviews": "203442",
         "Search Filter": "newreleases"
     },
     {
@@ -2060,7 +2020,23 @@
         "Date": "Mar 25, 2021",
         "Original Price": "$39.99",
         "Discount Price": "$11.99",
-        "Reviews": "176090",
+        "Reviews": "176161",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Black Desert",
+        "Date": "May 24, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$9.99",
+        "Reviews": "58428",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Balatro",
+        "Date": "Feb 20, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$14.99",
+        "Reviews": "111627",
         "Search Filter": "newreleases"
     },
     {
@@ -2068,7 +2044,7 @@
         "Date": "Dec 7, 2023",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "223256",
+        "Reviews": "223373",
         "Search Filter": "newreleases"
     },
     {
@@ -2080,35 +2056,11 @@
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Balatro",
-        "Date": "Feb 20, 2024",
+        "Name": "Once Human",
+        "Date": "Jul 9, 2024",
         "Original Price": "N/A",
-        "Discount Price": "$14.99",
-        "Reviews": "111491",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Two Point Museum",
-        "Date": "Mar 4, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "3208",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
-        "Date": "May 16, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "40150",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Stardew Valley",
-        "Date": "Feb 26, 2016",
-        "Original Price": "N/A",
-        "Discount Price": "$14.99",
-        "Reviews": "739174",
+        "Discount Price": "Free",
+        "Reviews": "123468",
         "Search Filter": "newreleases"
     },
     {
@@ -2116,15 +2068,39 @@
         "Date": "Oct 10, 2007",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "148960",
+        "Reviews": "149046",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Red Dead Redemption 2",
-        "Date": "Dec 5, 2019",
+        "Name": "Yu-Gi-Oh! Master Duel",
+        "Date": "Jan 18, 2022",
         "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "647340",
+        "Discount Price": "Free",
+        "Reviews": "84213",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "The First Descendant",
+        "Date": "Jun 30, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "99872",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Warhammer 40,000: Darktide",
+        "Date": "Nov 30, 2022",
+        "Original Price": "$39.99",
+        "Discount Price": "$19.99",
+        "Reviews": "88596",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Stardew Valley",
+        "Date": "Feb 26, 2016",
+        "Original Price": "N/A",
+        "Discount Price": "$14.99",
+        "Reviews": "739408",
         "Search Filter": "newreleases"
     },
     {
@@ -2132,15 +2108,23 @@
         "Date": "Jun 3, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "303613",
+        "Reviews": "303636",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Magic: The Gathering Arena",
-        "Date": "May 23, 2023",
+        "Name": "Two Point Museum",
+        "Date": "Mar 4, 2025",
         "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "17540",
+        "Discount Price": "$29.99",
+        "Reviews": "3257",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Red Dead Redemption 2",
+        "Date": "Dec 5, 2019",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "647667",
         "Search Filter": "newreleases"
     },
     {
@@ -2148,23 +2132,23 @@
         "Date": "Apr 26, 2024",
         "Original Price": "$39.99",
         "Discount Price": "$27.99",
-        "Reviews": "58615",
+        "Reviews": "58635",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Grand Theft Auto V Enhanced",
-        "Date": "Mar 4, 2025",
+        "Name": "Magic: The Gathering Arena",
+        "Date": "May 23, 2023",
         "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "29972",
+        "Discount Price": "Free",
+        "Reviews": "17554",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "ARK: Survival Ascended",
-        "Date": "Oct 25, 2023",
+        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
+        "Date": "May 16, 2024",
         "Original Price": "N/A",
-        "Discount Price": "$44.99",
-        "Reviews": "66083",
+        "Discount Price": "$59.99",
+        "Reviews": "40218",
         "Search Filter": "newreleases"
     },
     {
@@ -2172,103 +2156,15 @@
         "Date": "Nov 12, 2024",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "19563",
+        "Reviews": "19584",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "GUILTY GEAR -STRIVE-",
-        "Date": "Jun 11, 2021",
-        "Original Price": "$39.99",
-        "Discount Price": "$19.99",
-        "Reviews": "41429",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Palworld",
-        "Date": "Jan 18, 2024",
+        "Name": "ARK: Survival Ascended",
+        "Date": "Oct 25, 2023",
         "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "316517",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Hello Kitty Island Adventure",
-        "Date": "Jan 30, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "3648",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-        "Date": "Jun 13, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "6142",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Dota 2",
-        "Date": "Jul 9, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "459732",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Psycho Patrol R",
-        "Date": "Mar 23, 2025",
-        "Original Price": "$39.99",
-        "Discount Price": "$35.99",
-        "Reviews": "445",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Limbus Company",
-        "Date": "Feb 26, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "53673",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Delta Force",
-        "Date": "Dec 4, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "93903",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "WWE 2K25",
-        "Date": "Mar 13, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "991",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Mortal Kombat 1",
-        "Date": "Sep 19, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$16.49",
-        "Reviews": "22716",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Enshrouded",
-        "Date": "Jan 24, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "65799",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "The Elder Scrolls V: Skyrim Special Edition",
-        "Date": "Oct 27, 2016",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "184490",
+        "Discount Price": "$44.99",
+        "Reviews": "66115",
         "Search Filter": "newreleases"
     },
     {
@@ -2280,11 +2176,59 @@
         "Search Filter": "newreleases"
     },
     {
-        "Name": "The Witcher 3: Wild Hunt",
-        "Date": "May 18, 2015",
-        "Original Price": "$39.99",
-        "Discount Price": "$7.99",
-        "Reviews": "753637",
+        "Name": "BeamNG.drive",
+        "Date": "May 29, 2015",
+        "Original Price": "N/A",
+        "Discount Price": "$24.99",
+        "Reviews": "285661",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Grand Theft Auto V Enhanced",
+        "Date": "Mar 4, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "30328",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Total War: WARHAMMER III",
+        "Date": "Feb 16, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "82040",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Enshrouded",
+        "Date": "Jan 24, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "65827",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Palworld",
+        "Date": "Jan 18, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "316588",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Hello Kitty Island Adventure",
+        "Date": "Jan 30, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "3661",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Mortal Kombat 1",
+        "Date": "Sep 19, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$16.49",
+        "Reviews": "22739",
         "Search Filter": "newreleases"
     },
     {
@@ -2292,55 +2236,15 @@
         "Date": "Feb 22, 2024",
         "Original Price": "N/A",
         "Discount Price": "$29.99",
-        "Reviews": "217576",
+        "Reviews": "217664",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Factorio",
-        "Date": "Aug 14, 2020",
+        "Name": "PUBG: BATTLEGROUNDS",
+        "Date": "Dec 21, 2017",
         "Original Price": "N/A",
-        "Discount Price": "$35.00",
-        "Reviews": "168517",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Black Myth: Wukong",
-        "Date": "Aug 19, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "827336",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Conan Exiles",
-        "Date": "May 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$3.99",
-        "Reviews": "71066",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Deep Rock Galactic",
-        "Date": "May 13, 2020",
-        "Original Price": "$29.99",
-        "Discount Price": "$9.89",
-        "Reviews": "268939",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "BeamNG.drive",
-        "Date": "May 29, 2015",
-        "Original Price": "N/A",
-        "Discount Price": "$24.99",
-        "Reviews": "285540",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Cities: Skylines II",
-        "Date": "Oct 24, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$39.99",
-        "Reviews": "49249",
+        "Discount Price": "Free",
+        "Reviews": "523660",
         "Search Filter": "newreleases"
     },
     {
@@ -2348,23 +2252,103 @@
         "Date": "Feb 2, 2016",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "141273",
+        "Reviews": "141302",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Hearts of Iron IV",
-        "Date": "Apr 9, 2024",
+        "Name": "WWE 2K25",
+        "Date": "Mar 13, 2025",
         "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "232223",
+        "Discount Price": "$59.99",
+        "Reviews": "1011",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "STAR WARS\u2122: The Old Republic\u2122",
-        "Date": "Jul 21, 2020",
+        "Name": "Factorio",
+        "Date": "Aug 14, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$35.00",
+        "Reviews": "168545",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Conan Exiles",
+        "Date": "May 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$3.99",
+        "Reviews": "71143",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Limbus Company",
+        "Date": "Feb 26, 2023",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "66239",
+        "Reviews": "53730",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Deep Rock Galactic",
+        "Date": "May 13, 2020",
+        "Original Price": "$29.99",
+        "Discount Price": "$9.89",
+        "Reviews": "268993",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Black Myth: Wukong",
+        "Date": "Aug 19, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "827414",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "theHunter: Call of the Wild\u2122",
+        "Date": "Feb 16, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "146531",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "GUILTY GEAR -STRIVE-",
+        "Date": "Jun 11, 2021",
+        "Original Price": "$39.99",
+        "Discount Price": "$19.99",
+        "Reviews": "41438",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Warhammer 40,000: Space Marine 2",
+        "Date": "Sep 9, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "113700",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "The Elder Scrolls V: Skyrim Special Edition",
+        "Date": "Oct 27, 2016",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "184540",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Delta Force",
+        "Date": "Dec 4, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "94070",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "The Witcher 3: Wild Hunt",
+        "Date": "May 18, 2015",
+        "Original Price": "$39.99",
+        "Discount Price": "$7.99",
+        "Reviews": "753723",
         "Search Filter": "newreleases"
     },
     {
@@ -2372,15 +2356,63 @@
         "Date": "Feb 18, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "8098",
+        "Reviews": "8118",
         "Search Filter": "newreleases"
     },
     {
-        "Name": "Overwatch\u00ae 2",
-        "Date": "Aug 10, 2023",
+        "Name": "DayZ",
+        "Date": "Dec 13, 2018",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "351206",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Project Zomboid",
+        "Date": "Nov 8, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "277614",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Valheim",
+        "Date": "Feb 2, 2021",
+        "Original Price": "$19.99",
+        "Discount Price": "$9.99",
+        "Reviews": "419267",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Cities: Skylines II",
+        "Date": "Oct 24, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$39.99",
+        "Reviews": "49276",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "Psycho Patrol R",
+        "Date": "Mar 23, 2025",
+        "Original Price": "$39.99",
+        "Discount Price": "$35.99",
+        "Reviews": "615",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "STAR WARS\u2122: The Old Republic\u2122",
+        "Date": "Jul 21, 2020",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "334840",
+        "Reviews": "66251",
+        "Search Filter": "newreleases"
+    },
+    {
+        "Name": "EA SPORTS\u2122 Madden NFL 25",
+        "Date": "Aug 15, 2024",
+        "Original Price": "$69.99",
+        "Discount Price": "$13.99",
+        "Reviews": "3381",
         "Search Filter": "newreleases"
     },
     {
@@ -2388,39 +2420,7 @@
         "Date": "Jun 20, 2024",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "80276",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Forza Horizon 5",
-        "Date": "Nov 8, 2021",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "199484",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "FINAL FANTASY VII REBIRTH",
-        "Date": "Jan 23, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "12111",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "Foundation",
-        "Date": "Jan 31, 2025",
-        "Original Price": "$34.99",
-        "Discount Price": "$26.24",
-        "Reviews": "18234",
-        "Search Filter": "newreleases"
-    },
-    {
-        "Name": "DEATH STRANDING DIRECTOR'S CUT",
-        "Date": "Mar 30, 2022",
-        "Original Price": "$39.99",
-        "Discount Price": "$19.99",
-        "Reviews": "26397",
+        "Reviews": "80282",
         "Search Filter": "newreleases"
     },
     {
@@ -2428,7 +2428,7 @@
         "Date": "Feb 26, 2025",
         "Original Price": "N/A",
         "Discount Price": "$9.99",
-        "Reviews": "51426",
+        "Reviews": "53077",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2436,7 +2436,7 @@
         "Date": "Aug 21, 2012",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "670961",
+        "Reviews": "672454",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2444,7 +2444,7 @@
         "Date": "Mar 19, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "9611",
+        "Reviews": "10211",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2452,15 +2452,7 @@
         "Date": "Mar 6, 2025",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "35526",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Warframe",
-        "Date": "Mar 25, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "612808",
+        "Reviews": "35907",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2468,7 +2460,15 @@
         "Date": "Mar 24, 2025",
         "Original Price": "$19.99",
         "Discount Price": "$16.99",
-        "Reviews": "1973",
+        "Reviews": "4008",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Warframe",
+        "Date": "Mar 25, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "612902",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2476,15 +2476,7 @@
         "Date": "Feb 27, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "111194",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Cyberpunk 2077",
-        "Date": "Dec 9, 2020",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "733313",
+        "Reviews": "112272",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2492,23 +2484,15 @@
         "Date": "Dec 5, 2024",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "251489",
+        "Reviews": "251790",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "The Sims\u2122 4",
-        "Date": "Jan 31, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "165532",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "HELLDIVERS\u2122 2",
-        "Date": "Feb 8, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "719479",
+        "Name": "Cyberpunk 2077",
+        "Date": "Dec 9, 2020",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "733523",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2516,87 +2500,7 @@
         "Date": "Dec 1, 2015",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "173794",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Kingdom Come: Deliverance II",
-        "Date": "Feb 4, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "64983",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Stellaris",
-        "Date": "May 9, 2016",
-        "Original Price": "$39.99",
-        "Discount Price": "$9.99",
-        "Reviews": "124266",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "The First Berserker: Khazan",
-        "Date": "Mar 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "679",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "War Thunder",
-        "Date": "Aug 15, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "606690",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "THRONE AND LIBERTY",
-        "Date": "Oct 1, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "61509",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "FragPunk",
-        "Date": "Mar 6, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "29136",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Baldur's Gate 3",
-        "Date": "Aug 3, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "651649",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Rust",
-        "Date": "Feb 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$23.99",
-        "Reviews": "999179",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "NBA 2K25",
-        "Date": "Oct 28, 2024",
-        "Original Price": "$69.99",
-        "Discount Price": "$20.99",
-        "Reviews": "16670",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Destiny 2",
-        "Date": "Oct 1, 2019",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "621959",
+        "Reviews": "174030",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2604,15 +2508,103 @@
         "Date": "Nov 4, 2020",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "984812",
+        "Reviews": "985017",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Cyberpunk 2077: Phantom Liberty",
-        "Date": "Sep 25, 2023",
-        "Original Price": "$29.99",
-        "Discount Price": "$22.49",
-        "Reviews": "17999",
+        "Name": "Destiny 2",
+        "Date": "Oct 1, 2019",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "622012",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "HELLDIVERS\u2122 2",
+        "Date": "Feb 8, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "719624",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "The Sims\u2122 4",
+        "Date": "Jan 31, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "165596",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "The First Berserker: Khazan",
+        "Date": "Mar 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "1041",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "THRONE AND LIBERTY",
+        "Date": "Oct 1, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "61536",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Kingdom Come: Deliverance II",
+        "Date": "Feb 4, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "65180",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Stellaris",
+        "Date": "May 9, 2016",
+        "Original Price": "$39.99",
+        "Discount Price": "$9.99",
+        "Reviews": "124253",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "War Thunder",
+        "Date": "Aug 15, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "606884",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Baldur's Gate 3",
+        "Date": "Aug 3, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "651794",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "FragPunk",
+        "Date": "Mar 6, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "29426",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Rust",
+        "Date": "Feb 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$23.99",
+        "Reviews": "999449",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "NBA 2K25",
+        "Date": "Oct 28, 2024",
+        "Original Price": "$69.99",
+        "Discount Price": "$20.99",
+        "Reviews": "16709",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2620,15 +2612,7 @@
         "Date": "Jun 14, 2016",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "570673",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "FINAL FANTASY XIV Online",
-        "Date": "Feb 18, 2014",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "72695",
+        "Reviews": "570725",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2636,7 +2620,7 @@
         "Date": "Feb 24, 2022",
         "Original Price": "N/A",
         "Discount Price": "$59.99",
-        "Reviews": "753359",
+        "Reviews": "753516",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2644,31 +2628,23 @@
         "Date": "Feb 10, 2023",
         "Original Price": "$59.99",
         "Discount Price": "$14.99",
-        "Reviews": "226552",
+        "Reviews": "226637",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "MapleStory",
-        "Date": "Aug 9, 2012",
+        "Name": "Cyberpunk 2077: Phantom Liberty",
+        "Date": "Sep 25, 2023",
+        "Original Price": "$29.99",
+        "Discount Price": "$22.49",
+        "Reviews": "18000",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "FINAL FANTASY XIV Online",
+        "Date": "Feb 18, 2014",
         "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "13579",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "EA SPORTS FC\u2122 25",
-        "Date": "Sep 26, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$42.00",
-        "Reviews": "56212",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "No Man's Sky",
-        "Date": "Aug 12, 2016",
-        "Original Price": "$59.99",
-        "Discount Price": "$23.99",
-        "Reviews": "262839",
+        "Discount Price": "$19.99",
+        "Reviews": "72700",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2676,127 +2652,15 @@
         "Date": "Feb 10, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "28704",
+        "Reviews": "28824",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Crusader Kings III",
-        "Date": "Sep 1, 2020",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "77813",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "PGA TOUR 2K25",
-        "Date": "Feb 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "1239",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "RimWorld",
-        "Date": "Oct 17, 2018",
-        "Original Price": "$34.99",
-        "Discount Price": "$27.99",
-        "Reviews": "174673",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Lost Ark",
-        "Date": "Feb 11, 2022",
+        "Name": "MapleStory",
+        "Date": "Aug 9, 2012",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "201727",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Arma Reforger",
-        "Date": "Nov 16, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$35.98",
-        "Reviews": "23470",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "The Elder Scrolls\u00ae Online",
-        "Date": "May 22, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$19.99",
-        "Reviews": "126031",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "BLEACH Rebirth of Souls",
-        "Date": "Mar 20, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "2791",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Marvel's Spider-Man 2",
-        "Date": "Jan 30, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "11896",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Black Desert",
-        "Date": "May 24, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "$9.99",
-        "Reviews": "58431",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Yu-Gi-Oh! Master Duel",
-        "Date": "Jan 18, 2022",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "84189",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Satisfactory",
-        "Date": "Sep 10, 2024",
-        "Original Price": "$39.99",
-        "Discount Price": "$27.99",
-        "Reviews": "190824",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Call of Duty\u00ae: Black Ops 6",
-        "Date": "Oct 24, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "11115",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Wreckfest 2",
-        "Date": "Mar 20, 2025",
-        "Original Price": "$29.99",
-        "Discount Price": "$23.99",
-        "Reviews": "1650",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Atomfall",
-        "Date": "Mar 27, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "167",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Path of Exile 2",
-        "Date": "Dec 6, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "105945",
+        "Reviews": "13580",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2804,7 +2668,63 @@
         "Date": "Apr 14, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "65291",
+        "Reviews": "65303",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Lost Ark",
+        "Date": "Feb 11, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "201725",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "PGA TOUR 2K25",
+        "Date": "Feb 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "1242",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "No Man's Sky",
+        "Date": "Aug 12, 2016",
+        "Original Price": "$59.99",
+        "Discount Price": "$23.99",
+        "Reviews": "262867",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "EA SPORTS FC\u2122 25",
+        "Date": "Sep 26, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$42.00",
+        "Reviews": "56348",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "RimWorld",
+        "Date": "Oct 17, 2018",
+        "Original Price": "$34.99",
+        "Discount Price": "$27.99",
+        "Reviews": "174721",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Arma Reforger",
+        "Date": "Nov 16, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$35.98",
+        "Reviews": "23517",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Crusader Kings III",
+        "Date": "Sep 1, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "77806",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2812,7 +2732,79 @@
         "Date": "Sep 18, 2020",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "618931",
+        "Reviews": "619028",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Satisfactory",
+        "Date": "Sep 10, 2024",
+        "Original Price": "$39.99",
+        "Discount Price": "$27.99",
+        "Reviews": "190887",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Call of Duty\u00ae: Black Ops 6",
+        "Date": "Oct 24, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$69.99",
+        "Reviews": "11117",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "BLEACH Rebirth of Souls",
+        "Date": "Mar 20, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "2854",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Atomfall",
+        "Date": "Mar 27, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "275",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "The Elder Scrolls\u00ae Online",
+        "Date": "May 22, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "126052",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Path of Exile 2",
+        "Date": "Dec 6, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "106000",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Marvel's Spider-Man 2",
+        "Date": "Jan 30, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "11929",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Ready or Not",
+        "Date": "Dec 13, 2023",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "178762",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Wreckfest 2",
+        "Date": "Mar 20, 2025",
+        "Original Price": "$29.99",
+        "Discount Price": "$23.99",
+        "Reviews": "1697",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2824,43 +2816,11 @@
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Once Human",
-        "Date": "Jul 9, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "123414",
-        "Search Filter": "upcomingreleases"
-    },
-    {
         "Name": "Cities: Skylines",
         "Date": "Mar 10, 2015",
         "Original Price": "$29.99",
         "Discount Price": "$2.99",
-        "Reviews": "203318",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "PUBG: BATTLEGROUNDS",
-        "Date": "Dec 21, 2017",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "523320",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "The First Descendant",
-        "Date": "Jun 30, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "99840",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Ready or Not",
-        "Date": "Dec 13, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "178714",
+        "Reviews": "203442",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2868,7 +2828,23 @@
         "Date": "Mar 25, 2021",
         "Original Price": "$39.99",
         "Discount Price": "$11.99",
-        "Reviews": "176090",
+        "Reviews": "176161",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Black Desert",
+        "Date": "May 24, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$9.99",
+        "Reviews": "58428",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Balatro",
+        "Date": "Feb 20, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$14.99",
+        "Reviews": "111627",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2876,7 +2852,7 @@
         "Date": "Dec 7, 2023",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "223256",
+        "Reviews": "223373",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2888,35 +2864,11 @@
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Balatro",
-        "Date": "Feb 20, 2024",
+        "Name": "Once Human",
+        "Date": "Jul 9, 2024",
         "Original Price": "N/A",
-        "Discount Price": "$14.99",
-        "Reviews": "111491",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Two Point Museum",
-        "Date": "Mar 4, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "3208",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
-        "Date": "May 16, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "40150",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Stardew Valley",
-        "Date": "Feb 26, 2016",
-        "Original Price": "N/A",
-        "Discount Price": "$14.99",
-        "Reviews": "739174",
+        "Discount Price": "Free",
+        "Reviews": "123468",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2924,15 +2876,39 @@
         "Date": "Oct 10, 2007",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "148960",
+        "Reviews": "149046",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Red Dead Redemption 2",
-        "Date": "Dec 5, 2019",
+        "Name": "Yu-Gi-Oh! Master Duel",
+        "Date": "Jan 18, 2022",
         "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "647340",
+        "Discount Price": "Free",
+        "Reviews": "84213",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "The First Descendant",
+        "Date": "Jun 30, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "99872",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Warhammer 40,000: Darktide",
+        "Date": "Nov 30, 2022",
+        "Original Price": "$39.99",
+        "Discount Price": "$19.99",
+        "Reviews": "88596",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Stardew Valley",
+        "Date": "Feb 26, 2016",
+        "Original Price": "N/A",
+        "Discount Price": "$14.99",
+        "Reviews": "739408",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2940,15 +2916,23 @@
         "Date": "Jun 3, 2020",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "303613",
+        "Reviews": "303636",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Magic: The Gathering Arena",
-        "Date": "May 23, 2023",
+        "Name": "Two Point Museum",
+        "Date": "Mar 4, 2025",
         "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "17540",
+        "Discount Price": "$29.99",
+        "Reviews": "3257",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Red Dead Redemption 2",
+        "Date": "Dec 5, 2019",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "647667",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2956,23 +2940,23 @@
         "Date": "Apr 26, 2024",
         "Original Price": "$39.99",
         "Discount Price": "$27.99",
-        "Reviews": "58615",
+        "Reviews": "58635",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Grand Theft Auto V Enhanced",
-        "Date": "Mar 4, 2025",
+        "Name": "Magic: The Gathering Arena",
+        "Date": "May 23, 2023",
         "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "29972",
+        "Discount Price": "Free",
+        "Reviews": "17554",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "ARK: Survival Ascended",
-        "Date": "Oct 25, 2023",
+        "Name": "Ghost of Tsushima DIRECTOR'S CUT",
+        "Date": "May 16, 2024",
         "Original Price": "N/A",
-        "Discount Price": "$44.99",
-        "Reviews": "66083",
+        "Discount Price": "$59.99",
+        "Reviews": "40218",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -2980,103 +2964,15 @@
         "Date": "Nov 12, 2024",
         "Original Price": "N/A",
         "Discount Price": "$49.99",
-        "Reviews": "19563",
+        "Reviews": "19584",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "GUILTY GEAR -STRIVE-",
-        "Date": "Jun 11, 2021",
-        "Original Price": "$39.99",
-        "Discount Price": "$19.99",
-        "Reviews": "41429",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Palworld",
-        "Date": "Jan 18, 2024",
+        "Name": "ARK: Survival Ascended",
+        "Date": "Oct 25, 2023",
         "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "316517",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Hello Kitty Island Adventure",
-        "Date": "Jan 30, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "3648",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-        "Date": "Jun 13, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "6142",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Dota 2",
-        "Date": "Jul 9, 2013",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "459732",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Psycho Patrol R",
-        "Date": "Mar 23, 2025",
-        "Original Price": "$39.99",
-        "Discount Price": "$35.99",
-        "Reviews": "445",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Limbus Company",
-        "Date": "Feb 26, 2023",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "53673",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Delta Force",
-        "Date": "Dec 4, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "Free",
-        "Reviews": "93903",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "WWE 2K25",
-        "Date": "Mar 13, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "991",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Mortal Kombat 1",
-        "Date": "Sep 19, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$16.49",
-        "Reviews": "22716",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Enshrouded",
-        "Date": "Jan 24, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$29.99",
-        "Reviews": "65799",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "The Elder Scrolls V: Skyrim Special Edition",
-        "Date": "Oct 27, 2016",
-        "Original Price": "N/A",
-        "Discount Price": "$39.99",
-        "Reviews": "184490",
+        "Discount Price": "$44.99",
+        "Reviews": "66115",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -3088,11 +2984,59 @@
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "The Witcher 3: Wild Hunt",
-        "Date": "May 18, 2015",
-        "Original Price": "$39.99",
-        "Discount Price": "$7.99",
-        "Reviews": "753637",
+        "Name": "BeamNG.drive",
+        "Date": "May 29, 2015",
+        "Original Price": "N/A",
+        "Discount Price": "$24.99",
+        "Reviews": "285661",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Grand Theft Auto V Enhanced",
+        "Date": "Mar 4, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "30328",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Total War: WARHAMMER III",
+        "Date": "Feb 16, 2022",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "82040",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Enshrouded",
+        "Date": "Jan 24, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "65827",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Palworld",
+        "Date": "Jan 18, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$29.99",
+        "Reviews": "316588",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Hello Kitty Island Adventure",
+        "Date": "Jan 30, 2025",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "3661",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Mortal Kombat 1",
+        "Date": "Sep 19, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$16.49",
+        "Reviews": "22739",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -3100,55 +3044,15 @@
         "Date": "Feb 22, 2024",
         "Original Price": "N/A",
         "Discount Price": "$29.99",
-        "Reviews": "217576",
+        "Reviews": "217664",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Factorio",
-        "Date": "Aug 14, 2020",
+        "Name": "PUBG: BATTLEGROUNDS",
+        "Date": "Dec 21, 2017",
         "Original Price": "N/A",
-        "Discount Price": "$35.00",
-        "Reviews": "168517",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Black Myth: Wukong",
-        "Date": "Aug 19, 2024",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "827336",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Conan Exiles",
-        "Date": "May 8, 2018",
-        "Original Price": "$39.99",
-        "Discount Price": "$3.99",
-        "Reviews": "71066",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Deep Rock Galactic",
-        "Date": "May 13, 2020",
-        "Original Price": "$29.99",
-        "Discount Price": "$9.89",
-        "Reviews": "268939",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "BeamNG.drive",
-        "Date": "May 29, 2015",
-        "Original Price": "N/A",
-        "Discount Price": "$24.99",
-        "Reviews": "285540",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Cities: Skylines II",
-        "Date": "Oct 24, 2023",
-        "Original Price": "$49.99",
-        "Discount Price": "$39.99",
-        "Reviews": "49249",
+        "Discount Price": "Free",
+        "Reviews": "523660",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -3156,23 +3060,103 @@
         "Date": "Feb 2, 2016",
         "Original Price": "N/A",
         "Discount Price": "$19.99",
-        "Reviews": "141273",
+        "Reviews": "141302",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Hearts of Iron IV",
-        "Date": "Apr 9, 2024",
+        "Name": "WWE 2K25",
+        "Date": "Mar 13, 2025",
         "Original Price": "N/A",
-        "Discount Price": "$49.99",
-        "Reviews": "232223",
+        "Discount Price": "$59.99",
+        "Reviews": "1011",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "STAR WARS\u2122: The Old Republic\u2122",
-        "Date": "Jul 21, 2020",
+        "Name": "Factorio",
+        "Date": "Aug 14, 2020",
+        "Original Price": "N/A",
+        "Discount Price": "$35.00",
+        "Reviews": "168545",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Conan Exiles",
+        "Date": "May 8, 2018",
+        "Original Price": "$39.99",
+        "Discount Price": "$3.99",
+        "Reviews": "71143",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Limbus Company",
+        "Date": "Feb 26, 2023",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "66239",
+        "Reviews": "53730",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Deep Rock Galactic",
+        "Date": "May 13, 2020",
+        "Original Price": "$29.99",
+        "Discount Price": "$9.89",
+        "Reviews": "268993",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Black Myth: Wukong",
+        "Date": "Aug 19, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "827414",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "theHunter: Call of the Wild\u2122",
+        "Date": "Feb 16, 2017",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "146531",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "GUILTY GEAR -STRIVE-",
+        "Date": "Jun 11, 2021",
+        "Original Price": "$39.99",
+        "Discount Price": "$19.99",
+        "Reviews": "41438",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Warhammer 40,000: Space Marine 2",
+        "Date": "Sep 9, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "$59.99",
+        "Reviews": "113700",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "The Elder Scrolls V: Skyrim Special Edition",
+        "Date": "Oct 27, 2016",
+        "Original Price": "N/A",
+        "Discount Price": "$39.99",
+        "Reviews": "184540",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Delta Force",
+        "Date": "Dec 4, 2024",
+        "Original Price": "N/A",
+        "Discount Price": "Free",
+        "Reviews": "94070",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "The Witcher 3: Wild Hunt",
+        "Date": "May 18, 2015",
+        "Original Price": "$39.99",
+        "Discount Price": "$7.99",
+        "Reviews": "753723",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -3180,15 +3164,63 @@
         "Date": "Feb 18, 2025",
         "Original Price": "N/A",
         "Discount Price": "$69.99",
-        "Reviews": "8098",
+        "Reviews": "8118",
         "Search Filter": "upcomingreleases"
     },
     {
-        "Name": "Overwatch\u00ae 2",
-        "Date": "Aug 10, 2023",
+        "Name": "DayZ",
+        "Date": "Dec 13, 2018",
+        "Original Price": "N/A",
+        "Discount Price": "$49.99",
+        "Reviews": "351206",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Project Zomboid",
+        "Date": "Nov 8, 2013",
+        "Original Price": "N/A",
+        "Discount Price": "$19.99",
+        "Reviews": "277614",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Valheim",
+        "Date": "Feb 2, 2021",
+        "Original Price": "$19.99",
+        "Discount Price": "$9.99",
+        "Reviews": "419267",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Cities: Skylines II",
+        "Date": "Oct 24, 2023",
+        "Original Price": "$49.99",
+        "Discount Price": "$39.99",
+        "Reviews": "49276",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "Psycho Patrol R",
+        "Date": "Mar 23, 2025",
+        "Original Price": "$39.99",
+        "Discount Price": "$35.99",
+        "Reviews": "615",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "STAR WARS\u2122: The Old Republic\u2122",
+        "Date": "Jul 21, 2020",
         "Original Price": "N/A",
         "Discount Price": "Free",
-        "Reviews": "334840",
+        "Reviews": "66251",
+        "Search Filter": "upcomingreleases"
+    },
+    {
+        "Name": "EA SPORTS\u2122 Madden NFL 25",
+        "Date": "Aug 15, 2024",
+        "Original Price": "$69.99",
+        "Discount Price": "$13.99",
+        "Reviews": "3381",
         "Search Filter": "upcomingreleases"
     },
     {
@@ -3196,39 +3228,7 @@
         "Date": "Jun 20, 2024",
         "Original Price": "N/A",
         "Discount Price": "$39.99",
-        "Reviews": "80276",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Forza Horizon 5",
-        "Date": "Nov 8, 2021",
-        "Original Price": "N/A",
-        "Discount Price": "$59.99",
-        "Reviews": "199484",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "FINAL FANTASY VII REBIRTH",
-        "Date": "Jan 23, 2025",
-        "Original Price": "N/A",
-        "Discount Price": "$69.99",
-        "Reviews": "12111",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "Foundation",
-        "Date": "Jan 31, 2025",
-        "Original Price": "$34.99",
-        "Discount Price": "$26.24",
-        "Reviews": "18234",
-        "Search Filter": "upcomingreleases"
-    },
-    {
-        "Name": "DEATH STRANDING DIRECTOR'S CUT",
-        "Date": "Mar 30, 2022",
-        "Original Price": "$39.99",
-        "Discount Price": "$19.99",
-        "Reviews": "26397",
+        "Reviews": "80282",
         "Search Filter": "upcomingreleases"
     }
 ]
